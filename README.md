@@ -1,6 +1,6 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
+# Date: 28/05/26
 # Name: Vibahar G
 # Reg. No.:212224060299
 # Aim:
